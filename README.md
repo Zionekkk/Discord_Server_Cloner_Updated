@@ -31,7 +31,7 @@
 ## About
 
 *A Discord Server Cloner By NotSaksh But Modified By Zionek, The Cloner Can Clone Any Discord Server In Just Few Minutes.*
-- Rate Limit Bypass - [Not Released]
+- Rate Limit Bypass - [Released But not tested]
 - Clone Channels
 - Channel Permissions
 - Server Roles
