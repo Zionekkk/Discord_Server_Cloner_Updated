@@ -25,7 +25,6 @@
 
 - [About](#about)
 - [Installation](#installation)
-- [Links](#links)
 - [Features](#Features)
 - [Website Score](#Websitescore)
 
@@ -43,17 +42,14 @@
 
 ## Installation
 ```js
-#install dependencies
+# install dependencies
 $ pip install
-build for production and launch server
+# Install older version of discord, that doesn't need intents
+$ pip uninstall discord.py
+$ pip install discord.py==1.7.1
+# build for production and launch server
 $ python3 main.py
 ```
-
-
-## Links
-
-- [Website](https://notyoursakshyam.notsakshyam6966.repl.co/)
-- [GitHub](https://github.com/NotSaksh)
 
 
 ## Features
