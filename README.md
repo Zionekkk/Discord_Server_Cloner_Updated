@@ -48,7 +48,7 @@ $ pip install
 $ pip uninstall discord.py
 $ pip install discord.py==1.7.1
 # build for production and launch server
-$ python3 main.py
+$ python3 main.py / py main.py / python main.py
 ```
 
 
