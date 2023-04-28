@@ -33,13 +33,12 @@
 - [About](#about)
 - [Installation](#installation)
 - [Links](#links)
-- [Deployed](#Deployed)
 - [Features](#Features)
 - [Website Score](#Websitescore)
 
 ## About
 
-*A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes.*
+*A Discord Server Cloner By NotSaksh But Modified By Zionek, The Cloner Can Clone Any Discord Server In Just Few Minutes.*
 - Rate Limit Bypass - [Not Released]
 - Clone Channels
 - Channel Permissions
@@ -56,10 +55,6 @@ $ pip install
 build for production and launch server
 $ python3 main.py
 ```
-## Deployed
-
-- [GitHub](https://github.com/NotSaksh/Discord-Server-Cloner/)
-- [Repl](https://replit.com/@NotSaksh/Discord-Server-Cloner-3#.replit)
 
 
 ## Links
