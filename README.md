@@ -36,16 +36,11 @@
 - [Deployed](#Deployed)
 - [Features](#Features)
 - [Website Score](#Websitescore)
-- [Contribution](#Contribution)
-
-## Need Help?
-
-- [Instagram](https://www.instagram.com/notsaksh6969/)
-- [Discord](https://discord.gg/7YtDujvD)
 
 ## About
 
 *A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes.*
+- Rate Limit Bypass - [Not Released]
 - Clone Channels
 - Channel Permissions
 - Server Roles
@@ -86,23 +81,5 @@ $ python3 main.py
 - Server Members
 ```
 
-## Contribution
-Contributions are always Welcome...
-
--   Fork The Repository
--   Improve Current Program By
-    -   Improving Functionality
-    -   Adding New Feature
-    -   Bug Fixes
--   Push your work and Create a Pull Request.....
-
 ### Issues
-If you have any issues with the project or you found a bug please create [new issue here](https://github.com/NotSaksh/Discord-Server-Cloner/issues)
-
-
-### Pull Requests
-When submitting a pull request:
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
-- Open a [pull request](https://github.com/NotSaksh/Discord-Server-Cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+If you have any issues with the project, a bug or a new feature please create [new issue here](https://github.com/Zionekkk/Discord_Server_Cloner_Updated/issues)
