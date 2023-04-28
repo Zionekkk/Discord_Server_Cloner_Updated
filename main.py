@@ -1,5 +1,5 @@
 from os import system
-mytitle = "Lua Cloner - Developed by NotSaksh#6969"
+mytitle = "Discord Cloner | By Zionek#0001 | Credits - NotSaksh"
 system("title "+mytitle)
 import psutil
 import time
@@ -10,6 +10,7 @@ import colorama
 from colorama import Fore, init, Style
 import platform
 from serverclone import Clone
+import time
 
 client = discord.Client()
 os = platform.system()
@@ -27,7 +28,7 @@ print(f"""{Fore.RED}
                                     ███████╗╚██████╔╝██║░░██║  ╚█████╔╝███████╗╚█████╔╝██║░╚███║███████╗██║░░██║
                                     ╚══════╝░╚═════╝░╚═╝░░╚═╝  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: NotSaksh#6969.{Style.RESET_ALL}
+                                                            {Fore.MAGENTA}By Zionek#0001 | Credits - NotSaksh{Style.RESET_ALL}
         """)
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
