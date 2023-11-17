@@ -90,6 +90,9 @@ class Clone:
         channel_voice: discord.VoiceChannel
         category = None
         for channel_text in guild_from.text_channels:
+            if re.search('|'.join(ticket_channels), channel_text.name):
+                print_warning(f"Channel {channel_text.name} is a ticket channel! Skipping...")
+                continue
             try:
                 for category in guild_to.categories:
                     try:
