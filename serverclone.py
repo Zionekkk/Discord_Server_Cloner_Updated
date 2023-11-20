@@ -1,6 +1,7 @@
 import discord
 from colorama import Fore, init, Style
 
+ticket_channels = ["ticket-", "closed-"]
 
 def print_add(message):
     print(f'{Fore.GREEN}[+]{Style.RESET_ALL} {message}')
