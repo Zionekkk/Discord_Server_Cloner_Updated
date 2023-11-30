@@ -8,10 +8,9 @@
     <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
     <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://img.shields.io/github/languages/code-size/Zionekkk/Discord_Server_Cloner_Updated" alt="Code Size" /></a>
-<a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://img.shields.io/github/repo-size/Zionekkk/Discord_Server_Cloner_Updated" alt="Build status" /></a>
-<a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=code" alt="Total Code lines" /></a>
-<a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=files" alt="total code files" /></a>
-<a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=lines" alt="total number of lines" /></a>
+    <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=code" alt="Total Code lines" /></a>
+    <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=files" alt="total code files" /></a>
+    <a href="https://github.com/Zionekkk/Discord_Server_Cloner_Updated"><img src="https://tokei.rs/b1/github/Zionekkk/Discord_Server_Cloner_Updated?category=lines" alt="total number of lines" /></a>
   </p> 
 </div>
 
