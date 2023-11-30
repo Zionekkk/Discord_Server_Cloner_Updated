@@ -58,8 +58,8 @@ $ python3 main.py / py main.py / python main.py
 + Server Banner / Avatar
 + Server Emojis
 + Server Settings
-! Server Members
-- Server Messages
+! Server Messages
+- Server Members
 ```
 
 ### Issues
