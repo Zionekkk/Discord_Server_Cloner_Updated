@@ -34,7 +34,8 @@
 - Server Name
 - Server Banner / Avatar
 - Server Emojis
-- Server Settings 
+- Server Settings
+- Messages copier [Working on]
 
 ## Installation
 ```js
