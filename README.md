@@ -23,7 +23,6 @@
 - [About](#about)
 - [Installation](#installation)
 - [Features](#Features)
-- [Website Score](#Websitescore)
 
 ## About
 
