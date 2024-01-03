@@ -39,8 +39,6 @@
 
 ## Installation
 ```js
-# install dependencies
-$ pip install
 # Install older version of discord, that doesn't need intents
 $ pip uninstall discord.py
 $ pip install discord.py==1.7.1
